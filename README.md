@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WohEni24
- 👀 I’m interested in travelling
-🌱 I’m currently learning JAVA
+ -👀 I’m interested in travelling
+-🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on e-mail weni24@hotmail.com
 - 😄 Pronouns: ...
